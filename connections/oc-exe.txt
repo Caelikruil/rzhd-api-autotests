@@ -1,0 +1,1 @@
+in this folder should lie file oc.exe for openshift
